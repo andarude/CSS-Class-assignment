@@ -1,8 +1,6 @@
 
-# This is in-class practice with HTML
+# This is an in-class assignment by Andrew Almeter
 
-# I'm making a pretty recipe
+It is due 9/22. The file names are confusing for me, so:
 
-# Andrew Almeter
-
-# Due 9/15
+THIS IS THE RECIPE, NOT THE SPORTS ARTICLE!
